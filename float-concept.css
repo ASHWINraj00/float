@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.head {
+    background-color:white;
+    width: 100%;  
+    height: 270vh;   
+    padding-left: 5px; 
+    padding-right: 5px;  
+}
+.clear {
+    clear: both;
+}
+.div1 {
+    background-color: greenyellow;
+    color: white;
+    text-align: center; 
+    width:20%;
+    height: 40px;
+    float: left;
+}
+.div2 {
+    float: left;
+    text-align: center;
+    width:20%;
+    height: 40px;
+}
+.div2:hover {
+    background-color: greenyellow;
+    color: white;  
+}
+.div3 {
+    float: left;
+    text-align: center;
+    width:20%;
+    height: 40px;
+}
+.div3:hover {
+    background-color: greenyellow;
+    color: white;
+}
+.div4 {
+    float: left;
+    text-align: center;
+    width:20%;
+    height: 40px;
+}
+.div4:hover {
+    background-color: greenyellow;
+    color: white;
+} 
+.div5 {
+    float: left;
+    text-align: center;
+    width:20%;
+    height: 40px; 
+}
+.div5:hover {
+    background-color: greenyellow;
+    color: white;
+}
+.bg {
+    color: greenyellow;
+}
+#div {
+    text-align: center;
+}
+.bg1 {
+    width: 100%;
+    height: 60vh;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.content1 {
+     background-color: greenyellow;
+     width: 32%;
+     float: left;
+     font-size: 2em;
+     color: white;
+     padding: 10px;
+     margin-left: 20px;
+}
+.content2 {
+    background-color: greenyellow;
+    width: 32%;
+    float: left;
+    font-size: 2em;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.content3 {
+    background-color: greenyellow;
+    width: 32%; 
+    float: left;
+    font-size: 2em;
+    color: white;
+    padding: 10px;
+}  
+.img1 {
+    width: 32%; 
+    height: 50vh;
+    float: left; 
+    margin-left: 20px;
+} 
+.img2 {
+    width: 32%;
+    height: 50vh;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.img3 {
+    width: 32%; 
+    height: 50vh;
+    float: left;
+}
+.para1 {
+    background-color: grey;
+    color: white;
+    width: 32%;
+    height: 20vh; 
+    float: left;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.para2 {
+    background-color: grey;
+    color: white;
+    width: 32%;
+    height: 20vh;
+    float: left;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.para3 {
+    background-color: grey;
+    color: white;
+    width: 32%;
+    height: 20vh;
+    float: left;
+    padding: 10px;
+    margin-top: 0px;
+    margin-right:5px;
+}
+#para4 {
+    float: left;
+    color:gray; 
+    width: 32%;
+}
+#para5 {
+    float: left;
+    width: 32%;
+    color:gray; 
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.like1 {
+    color: greenyellow;
+    text-transform:capitalize;
+}
+.btn1 {
+    background-color: grey;
+    color: white;
+    border: grey;
+    padding: 10px; 
+}
+#para6 {
+    float: left;
+    width: 32%;
+    color:gray; 
+}
+.like2 {
+    color: greenyellow;
+    text-transform:capitalize; 
+}
+.btn2 {
+    background-color: grey;
+    color: white; 
+    border: grey;
+    padding: 10px;
+}
+.bottom {
+    padding-top: 40px;
+}
+.footer {
+    background-color: greenyellow;
+    color: white;
+    width: 13%;
+    height: 20vh;
+    float: left; 
+    padding: 20px;
+    font-size: 4rem;
+    margin-left: 10px;
+}
+.id1 {
+    background-color: gray;
+    color: greenyellow;
+    float: left;
+    width: 33%;
+    height: 20vh;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.footclr {
+    color:white;
+    text-transform: lowercase;
+    padding: 20px;
+}
+.footer1 {
+    background-color: greenyellow;
+    color: white;
+    width: 13%;
+    height: 20vh;
+    float: left; 
+    padding: 20px;
+    font-size: 4rem;
+    margin-left: 60px;
+}
+.id2 {
+    background-color: gray;
+    color: greenyellow;
+    float: left;
+    width: 33%;
+    height: 20vh;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.footclr1 {
+    color:white;
+    text-transform: lowercase;
+    padding: 20px;
+}
+.last {
+    color: gray;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
